@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qI2jYrMm4uEtiXoo8BpQ1hjInfqHT1S5IUWsZ/jV4nBB+cazgiRpSniBCICYHueKyiKhgyQJZXITZyOWLBwaPw==",
+  "dgSpecHash": "XBho74IUJEhA0z7GoP6MQJZlsdbyPDTpLj3L8c0pWi513DIBYPh4zONLDExoYTxd6QXkjWuS+8p1WUo5pEcHig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\New folder\\Store\\Store.csproj",
+  "projectFilePath": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\Store\\Store\\Store.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\26384\\.nuget\\packages\\aspose.cells\\22.3.0\\aspose.cells.22.3.0.nupkg.sha512",
     "C:\\Users\\26384\\.nuget\\packages\\csvtojson\\1.0.0\\csvtojson.1.0.0.nupkg.sha512",

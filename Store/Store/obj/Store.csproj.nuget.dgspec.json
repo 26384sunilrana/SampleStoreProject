@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\New folder\\Store\\Store.csproj": {}
+    "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\Store\\Store\\Store.csproj": {}
   },
   "projects": {
-    "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\New folder\\Store\\Store.csproj": {
+    "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\Store\\Store\\Store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\New folder\\Store\\Store.csproj",
+        "projectUniqueName": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\Store\\Store\\Store.csproj",
         "projectName": "Store",
-        "projectPath": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\New folder\\Store\\Store.csproj",
+        "projectPath": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\Store\\Store\\Store.csproj",
         "packagesPath": "C:\\Users\\26384\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\New folder\\Store\\obj\\",
+        "outputPath": "C:\\Users\\26384\\source\\repos\\Store\\SampleStoreProject\\Store\\Store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
