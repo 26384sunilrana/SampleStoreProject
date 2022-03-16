@@ -17,12 +17,12 @@ namespace StoreInSqlDb.Feature.Implementation
         private string _storeInputFilePath = string.Empty;
         private string _productInputFilePath;
         private ISqlParametersModel _sqlParametersModelForStoreProduct;
-        private ISqlParametersModel _sqlParametersModelForProductCdn;
+        private ISqlParametersProductCdnUrlModel _sqlParametersModelForProductCdn;
         private IDataManipulation _dataManipulation;
         private IWriteDataIntoFile _writeDataIntoFile;
 
         public InsertStoreProducttIntoDatabase(IReadDataFromCsvFile readDataFromCsvFile, string storeInputFilePath, string productInputFilePath,
-                                                ISqlParametersModel sqlParametersModelForStoreProduct, ISqlParametersModel sqlParametersModelForProductCdn, 
+                                                ISqlParametersModel sqlParametersModelForStoreProduct, ISqlParametersProductCdnUrlModel sqlParametersModelForProductCdn, 
                                                 IDataManipulation dataManipulation, IWriteDataIntoFile writeDataIntoFile)
         {
             _readDataFromCsvFile = readDataFromCsvFile;

@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 
 namespace StoreInSqlDb.Foundation.Implementation
 {
-    public class SqlParametersModelForProductCdnUrl : ISqlParametersModel
+    public class SqlParametersModelForProductCdnUrl : ISqlParametersProductCdnUrlModel
     {
         public SqlParameter[] CreateSqlParameters(string ean, string cdnUrl, string latestUpdated)
         {

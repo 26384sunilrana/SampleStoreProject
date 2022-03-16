@@ -17,6 +17,7 @@ namespace Store.Feature.Implementation
             _applicationConfig = applicationConfig;
             _writeDataIntoFile = writeDataIntoFile;
         }
+
         public void FetchDataInJsonFormat(string inputFilePath, string outFilePath)
         {
             Workbook workbook;

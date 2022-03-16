@@ -15,11 +15,11 @@ namespace StoreInSqlDb.Project.Implementation
         private IWriteDataIntoFile _writeDataIntoFile;
         private IReadDataFromCsvFile _readDataFromCsvFile;
         private ISqlParametersModel _sqlParametersModelForStoreProducts;
-        private ISqlParametersModel _sqlParametersModelForProductsCnd;
+        private ISqlParametersProductCdnUrlModel _sqlParametersModelForProductsCnd;
         private IDataManipulation _dataManipulation;
 
         public StoreProduct(IApplicationConfig applicationConfig, IWriteDataIntoFile writeDataIntoFile, IReadDataFromCsvFile readDataFromCsvFile,
-                            ISqlParametersModel sqlParametersModelForStoreProducts, ISqlParametersModel sqlParametersModelForProductsCnd, IDataManipulation dataManipulation)
+                            ISqlParametersModel sqlParametersModelForStoreProducts, ISqlParametersProductCdnUrlModel sqlParametersModelForProductsCnd, IDataManipulation dataManipulation)
         {
             _applicationConfig = applicationConfig;
             _writeDataIntoFile = writeDataIntoFile;
